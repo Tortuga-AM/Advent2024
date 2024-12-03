@@ -41,4 +41,6 @@ file_path = 'input2.txt'  # Replace with your file path
 solution.parse_file(file_path)
 solution.RemoveFailed()
 print(solution.numOfSafe())
-print("Completed")
+print("Completed the test")
+# WHy doesn't solution work when I run it?
+
